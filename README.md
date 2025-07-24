@@ -3,7 +3,7 @@
 # 💫 Hi 👋, I'm Neeraj Kumar
 **A passionate Frontend Engineer from India**
 
-### **I’m a self-motivated frontend engineer focused on building visually stunning, scalable, and performance-optimized web apps. I love exploring modern web technologies and sharing my learnings with others through content.**
+**I’m a self-motivated frontend engineer focused on building visually stunning, scalable, and performance-optimized web apps. I love exploring modern web technologies and sharing my learnings with others through content.**
 
 
 📫 Email Me 👉 ✉️ **nk05661@gmail.com** — I'm always open to collaboration, projects, or just a chat! 😊 😊😊
