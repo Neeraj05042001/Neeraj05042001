@@ -1,5 +1,10 @@
+
+
 # 💫 Hi 👋, I'm Neeraj Kumar
 **A passionate Frontend Engineer from India**
+
+### **I’m a self-motivated frontend engineer focused on building visually stunning, scalable, and performance-optimized web apps. I love exploring modern web technologies and sharing my learnings with others through content.**
+
 
 📫 Email Me 👉 ✉️ **nk05661@gmail.com** — I'm always open to collaboration, projects, or just a chat! 😊 😊😊
 
@@ -28,6 +33,10 @@
 
 
 # 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,figma,redux,firebase,vercel,git,github,vite,bootstrap,framer" />
+</p>
 
 <details>
   <summary><b>🧠 Languages</b></summary>
@@ -104,6 +113,8 @@
 </details>
 
 
+
+
 # 📊 GitHub Stats:
 <div align="center">
 
@@ -126,6 +137,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Neeraj05042001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Neeraj05042001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Neeraj05042001&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj05042001" /> </p>
+
