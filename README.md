@@ -2,6 +2,7 @@
 
 # 💫 Hi 👋, I'm Neeraj Kumar
 **A passionate Frontend Engineer from India**
+
 **Portfolio:-** https://neeraj-pearl.vercel.app/
 
 **I’m a self-motivated frontend engineer focused on building visually stunning, scalable, and performance-optimized web apps. I love exploring modern web technologies and sharing my learnings with others through content.**
